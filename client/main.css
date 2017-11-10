@@ -1,0 +1,15 @@
+/* CSS declarations go here */
+.top-margin {
+	margin-top: 50px;
+}
+
+/*.accounts-dialog {
+	background: grey;
+}*/
+
+
+#viewer_iframe{
+	border:1px solid gray;
+	resize: both;
+	width: 100%;
+}
